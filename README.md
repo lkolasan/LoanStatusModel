@@ -1,2 +1,2 @@
 # LoanStatusModel
-Sample model in Python to predict loan status
+Model in Python to predict loan status
